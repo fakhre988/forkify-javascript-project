@@ -1,7 +1,9 @@
-# forkify Project
+# JAVASCRIPT APP
 
-Recipe application with custom recipe uploads.
+Recipe application with custom recipe uploads 
+
+Done with the help of Jonas schmedtmann's Javascript course on udemy 
 
 # Deployment
 
-[Netlify](https://forkify-javascript-project.netlify.app/)
+[Live version on Netlify](https://forkify-javascript-project.netlify.app/)
