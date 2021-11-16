@@ -2,6 +2,6 @@
 
 Recipe application with custom recipe uploads.
 
-# see project on Netlify 
+# Deployment
 
-https://forkify-javascript-project.netlify.app/
+[Netlify](https://forkify-javascript-project.netlify.app/)
